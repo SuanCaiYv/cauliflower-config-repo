@@ -3,6 +3,6 @@ spring:
     host: 127.0.0.1
     password:
   r2dbc:
-    url: r2dbc:mysql://121.5.132.195:3306/final_app
+    url: r2dbc:mysql://121.5.132.195:3306/cauliflower
     username: root
     password: Detective.4612
